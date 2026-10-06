@@ -34,9 +34,9 @@
 
 ### v3版本
 
-huggingface仓库地址：暂未开源
+huggingface仓库地址：https://huggingface.co/heathcliff01/Kaloscope3.0-preview
 
-或者在modelscope下载：暂未开源
+或者在modelscope下载：https://www.modelscope.cn/models/Heathcliff02/Kaloscope3.0-preview
 
 ### v2版本
 

@@ -32,7 +32,7 @@
 
 * `config.json`（用于识别模型架构，如果有的话请下载）
 
-### v3版本
+### v3-preview版本
 
 huggingface仓库地址：https://huggingface.co/heathcliff01/Kaloscope3.0-preview
 
